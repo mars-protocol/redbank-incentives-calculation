@@ -6,4 +6,4 @@ export const CONTRACT_ADDRESS = {
 export const RPC_URL =
   "https://testnet-osmosis-node.marsprotocol.io/XF32UOOU55CX/osmosis-rpc-front/";
 
-export const SECONDS_IN_YEAR = 31540000;
+export const SECONDS_IN_A_YEAR = 31540000;

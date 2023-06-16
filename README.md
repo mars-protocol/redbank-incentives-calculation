@@ -24,6 +24,7 @@ Also, asset denom set to `uosmo` which can be altered in the `main.ts` file.
 ### Results
 
 ```
-uosmo Deposit APY: %1.72
-uosmo Incentive APY: %35.41
+Denom: uosmo
+Deposit APR: %1.72
+Incentive APY: %35.41
 ```
