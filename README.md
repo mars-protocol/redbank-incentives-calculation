@@ -6,7 +6,7 @@ Note that passed denom should already be enabled in the contracts in order to pr
 
 ## Getting started
 
-In default, program works with `osmo-test-5` network contracts. Network and contracts can be changed by updating `RPC_URL` and `CONTRACT_ADDRESS` in the `constants.ts`.
+In default, program works with osmosis mainnet network contracts. Network and contracts can be changed by updating `RPC_URL` and `CONTRACT_ADDRESS` in the `constants.ts`.
 
 Also, asset denom set to `uosmo` which can be altered in the `main.ts` file.
 
