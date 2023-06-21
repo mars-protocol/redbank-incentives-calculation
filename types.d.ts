@@ -1,7 +1,3 @@
-interface PoolParams {
-  swap_fee: string;
-}
-
 interface PoolToken {
   denom: string;
   amount: string;
@@ -13,7 +9,6 @@ interface PoolAsset {
 }
 
 interface Pool {
-  pool_params: PoolParams;
   pool_assets: PoolAsset[];
 }
 
